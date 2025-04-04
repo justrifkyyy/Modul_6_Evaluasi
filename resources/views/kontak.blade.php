@@ -4,7 +4,7 @@
 
 @section('content')
 <div class="container py-5">
-    <h1 class="text-center text-primary mt-5 mb-2">Kontak Kami</h1>
+    <h1 class="text-center text-primary">Kontak Kami</h1>
     <p class="text-center">Anda dapat menghubungi kami melalui email di web resmi kami dan juga melalui sosial media kami.</p>
 
     <!-- Formulir Kontak -->

@@ -14,8 +14,8 @@
 
     <style>
         body {
-            background-color: #00a6b5;
-            color: white;
+            background-color: white;
+            color: black;
             font-family: 'Poppins', sans-serif;
             margin: 0;
             display: flex;

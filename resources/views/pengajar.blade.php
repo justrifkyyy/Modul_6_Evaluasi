@@ -5,7 +5,7 @@
 @section('content')
 <div style="background: linear-gradient(to right, #2ecc71, #3498db); min-height: 100vh; padding-top: 80px; padding-bottom: 50px;">
     <div class="container">
-        <h1 class="text-center text-white mt-5 mb-5">Daftar Pengajar</h1>
+        <h1 class="text-center text-white">Daftar Pengajar</h1>
 
         <div class="row mt-5 justify-content-center">
             @php
